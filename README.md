@@ -1,4 +1,4 @@
-# draw-using-hands
+# Draw-using-hands-python
 Lets you draw on a virtual air canvas using your hands using python, opencv2 and mediapipe
 
 1. Install prequisites from the requirements.txt
