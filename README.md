@@ -1,7 +1,7 @@
 # Draw-using-hands-python
 Lets you draw on a virtual air canvas using your hands using python, opencv2 and mediapipe
 
-1. Install prequisites from the requirements.txt
+1. Install prequisites from the requirements.md
 2. Select Colors using right hand.
 3. Left hand open = draw. Left hand closed = doesn't draw
 4. Make spock 🖖 sign with left hand to erase the drawing
